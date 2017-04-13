@@ -1,2 +1,4 @@
-baseurl: /test1
-theme: jekyll-theme-slate
+theme: jekyll-theme-merlot
+
+#baseurl: /test1
+#theme: jekyll-theme-slate
