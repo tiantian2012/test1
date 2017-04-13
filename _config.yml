@@ -1,4 +1,2 @@
 theme: jekyll-theme-merlot
-
-#baseurl: /test1
-#theme: jekyll-theme-slate
+baseurl: /test1
